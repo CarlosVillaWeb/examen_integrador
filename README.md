@@ -1,5 +1,5 @@
 # examen_integrador
-Grupo 5 Examen Final
+Nombre del grupo Grupo 05
 carlos villa
 Jean Carlos Carrillo
 Alejandro Lopez Giraldo
